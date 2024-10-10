@@ -1,2 +1,5 @@
 hw1/models/
 hw1/logs/
+hw2/datasets/
+hw2/yolo/runs
+hw2/yolo/models
