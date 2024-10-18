@@ -6,3 +6,4 @@ hw2/yolo/runs
 hw2/yolo/models
 hw2/rcnn/vision_temp
 hw2/rcnn/vision_utils/__pycache__
+hw2/rcnn/mask_rcnn_coco.pth
