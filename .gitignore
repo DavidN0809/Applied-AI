@@ -1,5 +1,8 @@
 hw1/models/
 hw1/logs/
-hw2/datasets/
+hw2/datasets/coco_dataset/
+hw2/datasets/coco128/
 hw2/yolo/runs
 hw2/yolo/models
+hw2/rcnn/vision_temp
+hw2/rcnn/vision_utils/__pycache__
